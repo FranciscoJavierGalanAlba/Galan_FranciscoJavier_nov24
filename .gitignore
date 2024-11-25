@@ -1,0 +1,5 @@
+#Ficheros fuente de Photoshop
+*.xsd
+
+#carpeta top_secret (docs)
+docs
